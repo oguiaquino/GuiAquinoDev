@@ -3,7 +3,7 @@
 
   🌱 I’m currently studying Web development at [Trybe](https://github.com/betrybe/)
   
-   ⚛️ JavaScript | NodeJS | React
+   ⚛️ JavaScript | NodeJS | React | TypeScript
   
   📫 How to reach me: [linkedIn](https://www.linkedin.com/in/guilherme-aquino92/)
   
