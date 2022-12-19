@@ -17,7 +17,6 @@
 # 📊 GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 :
 ![](https://github-readme-stats.vercel.app/api?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=guiaquinodev&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
