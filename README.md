@@ -7,9 +7,7 @@
   
   🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.
 
-  
-   ⚛️ JavaScript | NodeJS | React | TypeScript
-  
+    
   📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-aquino92/) 
  
