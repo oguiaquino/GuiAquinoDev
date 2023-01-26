@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Guilherme!</h1>
+<h1 align="left">Hi, I`m Guilherme!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guiaquino92&color=blueviolet" alt="Profile views" /> 
 
   🌱 I’m currently studying Web development at [Trybe](https://github.com/betrybe/)
