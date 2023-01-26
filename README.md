@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I`m Guilherme!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guiaquino92&color=blueviolet" alt="Profile views" /> 
+  
+  🤩️ I love technology, personal development content, psychology, anime, and games.
 
   🌱 I’m currently studying Web development at [Trybe](https://github.com/betrybe/)
   
