@@ -5,6 +5,9 @@
 
   🌱 I’m currently studying Web development at [Trybe](https://github.com/betrybe/)
   
+  🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.
+
+  
    ⚛️ JavaScript | NodeJS | React | TypeScript
   
   📫 How to reach me:
