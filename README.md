@@ -1,20 +1,33 @@
-<h1 align="left">Hi, I`m Guilherme!</h1>
+<table align="center">
+  <tr>
+    <td>
+      <b>
+        <a href="README.md">🇧🇷 Português</a>
+      </b>
+    </td>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+</table>
+
+<h1 align="left">Oi, Eu sou o Guilherme!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guiaquino92&color=blueviolet" alt="Profile views" /> 
   
-  🤩️ I love technology, personal development content, psychology, anime, and games.
+  🤩️ Eu amo tecnologia, conteúdo de desenvolvimento pessoal, psicologia, anime e jogos.
 
-  🌱 I’m currently studying Web development at [Trybe](https://github.com/betrybe/)
+  🌱 Atualmente, estou estudando desenvolvimento web na [Trybe](https://github.com/betrybe/).
   
-  🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.
+  🚀 Evoluindo exponencialmente em ReactJS e seu ecossistema..
 
     
-  📫 How to reach me:
+  📫 Como me contatar: :
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-aquino92/) 
  
  
   <br>
 
-# 💻 Tech Stack:
+# 💻 Tecnologias:
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
   <tr>
@@ -206,7 +219,7 @@
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# 📊 GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+# 📊 GitHub Status <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 :
 ![](https://github-readme-stats.vercel.app/api?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
