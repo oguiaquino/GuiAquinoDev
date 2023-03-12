@@ -228,10 +228,13 @@
  &ensp; 
 # 🔥 Projetos
  <div>
-    <a width="268px" href="https://github.com/GuiAquinoDev/world-trip" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiAquinoDev&repo=world-trip&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+    <a href="https://github.com/GuiAquinoDev/world-trip" target="_blank">
+      <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiAquinoDev&repo=world-trip&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
-  <div>
+   <a href="https://github.com/GuiAquinoDev/spacetraveling" target="_blank">
+      <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiAquinoDev&repo=spacetraveling&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+  </div>
 <br>
 
 
